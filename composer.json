@@ -1,18 +1,18 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
+    "name": "abbadon1334/SclobyClientApi",
     "description": "",
     "keywords": [
+        "scloby",
         "swagger",
         "php",
         "sdk",
         "api"
     ],
-    "homepage": "http://swagger.io",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Swagger and contributors",
-            "homepage": "https://github.com/swagger-api/swagger-codegen"
+            "name": "Francesco Danti",
+            "homepage": "https://github.com/abbadon1334"
         }
     ],
     "require": {
